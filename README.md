@@ -2,7 +2,7 @@
 
 
 ## Vuln Detail
-- Vulnerability type: Server side js injection
+- Vulnerability type: Js injection
 
 - Affected product: Appsmith
 
@@ -37,8 +37,8 @@ Simple demo application:
 
 You can reproduce the vulnerability in this way.
 
-1. enter poc in any input component on the right
-2. click on the button of the first item in the list on the left
+1. Enter poc in any input component on the right
+2. Click on the button of the first item in the list on the left
 
 ![demo-application-overview.png](./img/demo-application-overview.png)
 
